@@ -1,6 +1,6 @@
-S0 = Mini
-S1 = Standard
-S2 = Mini & Standard
+S0 = Мини
+S1 = Стандартный
+S2 = Мини и Стандартный
 S3 = Belt
 S4 = Chain
-S6+7 = Team
+S6+7 = Команда
